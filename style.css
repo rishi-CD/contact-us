@@ -16,6 +16,8 @@ h1{
     position: relative;
     left: 35rem;
     width: 18%;
+    background-color: rgba(199, 191, 191, 0.377) ;
+    border-radius: 20px;
 
 }
 .name{
